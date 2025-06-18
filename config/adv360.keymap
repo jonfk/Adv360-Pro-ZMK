@@ -30,6 +30,21 @@
         };
     };
 
+    macros {
+        globe_ctrl_f: globe_ctrl_f {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings =
+                <&macro_press>,
+                <&kp LCTRL>,
+                <&macro_tap>,
+                <&kp GLOBE &kp F>,
+                <&macro_release>;
+
+            label = "GLOBE_CTRL_F";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
