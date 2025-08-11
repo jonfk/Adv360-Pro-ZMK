@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> I use the [nickcoutsos keymap editor](https://nickcoutsos.github.io/keymap-editor/) against this repo.
+
 # Kinesis Advantage 360 Pro ZMK Config
 
 ## Modifying the keymap
