@@ -71,7 +71,7 @@
 &trans  &kp LA(LC(LG(NUMBER_1)))  &kp LA(LC(LG(NUMBER_2)))  &kp LA(LC(LG(NUMBER_3)))  &trans             &trans  &trans                                      &trans  &trans  &trans     &trans     &trans  &trans  &trans
 &trans  &kp LA(LC(LG(SQT)))       &kp LA(LC(LG(COMMA)))     &kp LA(LC(LG(PERIOD)))    &kp LA(LC(LG(P)))  &trans  &trans                                      &trans  &trans  &trans     &trans     &trans  &trans  &trans
 &trans  &kp LA(LC(LG(A)))         &kp LA(LC(LG(O)))         &kp LA(LC(LG(E)))         &kp LA(LC(LG(U)))  &trans  &trans  &trans  &trans      &trans  &trans  &trans  &trans  &mkp LCLK  &mkp RCLK  &trans  &trans  &trans
-&trans  &trans                    &trans                    &trans                    &trans             &trans                  &trans      &trans                  &trans  &trans     &trans     &trans  &trans  &trans
+&trans  &trans                    &trans                    &kp LA(LC(LG(J)))         &trans             &trans                  &trans      &trans                  &trans  &trans     &trans     &trans  &trans  &trans
 &trans  &trans                    &trans                    &trans                    &trans                     &trans  &trans  &trans      &trans  &trans  &trans          &trans     &trans     &trans  &trans  &trans
             >;
         };
